@@ -1,0 +1,50 @@
+{
+  "cadastro": {
+    "url":"http://localhost:8080/veiculos",
+    "method":"POST",
+    "body":{
+      "marca":"Volkswagem",
+      "modelo":"Golf",
+      "ano":"2019",
+      "cor": "preto"
+
+    }
+  },
+  "consulta": {
+    "url":"http://localhost:8080/veiculos",
+    "method":"GET",
+    "query_params":{
+      "marca":"Volkswagem",
+      "modelo":"Golf",
+      "ano":"2019",
+      "cor":"preto",
+      "page": 1,
+      "total_pagina": 10
+    }
+  },
+  "consulta_id": {
+    "url":"http://localhost:8080/veiculos/{id_veiculo}",
+    "method":"GET",
+    "path_param":{
+      "id_veiculo": 1
+    }
+  },
+  "editar": {
+    "url":"http://localhost:8080/veiculos",
+    "method":"PATCH",
+    "body":{
+      "id": 1,
+      "marca":"Volkswagem",
+      "modelo":"Golf",
+      "ano":"2019",
+      "cor": "preto"
+    }
+  },
+  "remover": {
+    "url":"http://localhost:8080/veiculos/{id_veiculo}",
+    "method":"DELETE",
+    "path_param":{
+      "id_veiculo": 1
+    }
+  }
+}
