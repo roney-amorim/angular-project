@@ -1,0 +1,15 @@
+1 - Trabalhando com Core.module.forRoot()
+	Explicar a diferenção do uso do forRoot()
+2 - Após o Obeservables e Promises, incluir o conteúdo de Entendendo Subscribes e Emiters
+3 - Definir se a o crud e o menu virá antes ou depois do primeng
+4 - Criação de Menu 
+5 - Organizar Realizar CRUD na Aula 2
+6 - Trabalhando com Guards, Auth, JWT e LocalStorage
+7 - Segregando nível de acesso por Roles
+8 - Criar uma pequena abordagem de nativescript
+9 - Escrever todos os exercícios
+	Realizar CRUD - 0%
+	PrimeNg - 0%
+	Exercício Final - 50%
+10 - Desenvolver api
+11 - Formatar e organizar Aulas

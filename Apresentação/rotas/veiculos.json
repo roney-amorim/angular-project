@@ -15,7 +15,7 @@
     "method":"GET",
     "query_params":{
       "marca":"Volkswagem",
-      "modelo":"Golf",
+      "modelo":"Golf GTI",
       "ano":"2019",
       "cor":"preto",
       "page": 1,

@@ -1,0 +1,24 @@
+{
+  "cliente": {
+    "codigo_cliente": 1,
+    "nome":"Roney Augusto Amorim",
+    "documento":"999.999.999-99",
+    "data_nascimento":"1995-04-01",
+    "data_cadastro":"2019-04-01",
+    "data_alteracao":"2019-04-01",
+    "usuario_cadastro":"ramorim",
+    "usuario_alteracao":"ramorim"    
+},
+  "veiculo": {
+    "codigo_veiculo": 1,
+    "marca":"Volksvagen",
+    "modelo":"Golf GTI",
+    "placa":"FAW-4805",
+    "preco": 149000.00,
+    "percentual_desconto": 10,
+    "ano":"2019",
+    "motor":"2.0"    
+  },   
+  "preco_venda": 110000.00,
+  "data_hora_venda":"2019-04-09T16:32:05"   
+}
