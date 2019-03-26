@@ -1,5 +1,4 @@
-1 - Trabalhando com Core.module.forRoot()
-	Explicar a diferenção do uso do forRoot()
+1 - Trabalhando com Core.module
 2 - Após o Obeservables e Promises, incluir o conteúdo de Entendendo Subscribes e Emiters
 3 - Definir se a o crud e o menu virá antes ou depois do primeng
 4 - Criação de Menu 
