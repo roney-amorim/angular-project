@@ -1,25 +1,22 @@
-import { BrowserModule } from '@angular/platform-browser';
 import { NgModule, ModuleWithProviders } from '@angular/core';
-
-import { AppRoutingModule } from '../app-routing.module';
-import { AppComponent } from '../app.component';
 import { HomeComponent } from './home/home.component';
 import { PaginaNaoEncontradaComponent } from './pagina-nao-encontrada/pagina-nao-encontrada.component';
+import { RouterModule } from '@angular/router';
 
 @NgModule({
   declarations: [
     HomeComponent,
     PaginaNaoEncontradaComponent
   ],
-  imports: [],
+  imports: [RouterModule],
   exports:[],
   providers: []
 })
 export class SharedModule { 
-  // static forRoot(): ModuleWithProviders {
-  //   return {
-  //     ngModule: SharedModule,
-  //     providers: [ ]
-  //   }
-  // }
+  static forRoot(): ModuleWithProviders {
+    return {
+      ngModule: SharedModule,
+      providers: [ ]
+    }
+  }
 }

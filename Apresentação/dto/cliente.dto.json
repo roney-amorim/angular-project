@@ -1,10 +1,10 @@
 {
-    "codigo_cliente": 1,
+    "codigoCliente": 1,
     "nome":"Roney Augusto Amorim",
     "documento":"999.999.999-99",
-    "data_nascimento":"1995-04-01",
-    "data_cadastro":"2019-04-01",
-    "data_alteracao":"2019-04-01",
-    "usuario_cadastro":"ramorim",
-    "usuario_alteracao":"ramorim"    
+    "dataNascimento":"1995-04-01",
+    "dataCadastro":"2019-04-01",
+    "dataAlteracao":"2019-04-01",
+    "usuarioCadastro":"ramorim",
+    "usuarioAlteracao":"ramorim"   
 }

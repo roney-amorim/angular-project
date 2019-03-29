@@ -1,10 +1,20 @@
 {
-  "codigo_veiculo": 1,
-  "marca":"Volksvagen",
-  "modelo":"Golf GTI",
-  "placa":"FAW-4805",
-  "preco": 149000.00,
-  "percentual_desconto": 10,
-  "ano":"2019",
-  "motor":"2.0"    
+	"codigoVeiculo": 1,
+	"marca": { 
+		"codigoMarca" 1,
+		"nome":"Volksvagen"
+	},
+	"modelo": { 
+		"codigoModelo": 1,
+		"nome":"Golf GTI"
+	},
+	"placa":"FAW-4805",
+	"preco": 149000.00,
+	"percentualDesconto": 10,
+	"ano":"2019",
+	"motor":"2.0",
+	"dataCadastro":"2019-04-01",
+	"dataAlteracao":"2019-04-01",
+	"usuarioCadastro":"ramorim",
+	"usuarioAlteracao":"ramorim"      
 }
