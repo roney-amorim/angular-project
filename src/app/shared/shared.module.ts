@@ -1,15 +1,18 @@
+import { FormsModule } from "@angular/forms";
 import { NgModule, ModuleWithProviders } from '@angular/core';
-import { HomeComponent } from './home/home.component';
 import { PaginaNaoEncontradaComponent } from './pagina-nao-encontrada/pagina-nao-encontrada.component';
 import { RouterModule } from '@angular/router';
 
 @NgModule({
   declarations: [
-    HomeComponent,
     PaginaNaoEncontradaComponent
   ],
-  imports: [RouterModule],
-  exports:[],
+  imports: [RouterModule,
+    FormsModule
+  ],
+  exports:[
+    FormsModule
+  ],
   providers: []
 })
 export class SharedModule { 

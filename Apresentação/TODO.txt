@@ -2,10 +2,10 @@ OK - 1 - Trabalhando com Core.module
 OK - 2 - Após o Obeservables e Promises, incluir o conteúdo de Entendendo Subscribes e Emiters
 OK - 3 - Definir se a o crud e o menu virá antes ou depois do primeng
 OK - 4 - Criação de Menu 
-5 - Estrutura de Environment.json
-6 - Organizar Realizar CRUD na Aula 2
-7 - Trabalhando com Guards, Auth, JWT e LocalStorage
-8 - Segregando nível de acesso por Roles
+OK - Estrutura de Environment.json
+6 - Resolver problema TOAST
+OK - 7 - Trabalhando com Guards, Auth, JWT e LocalStorage
+OK - 8 - Segregando nível de acesso por Roles
 9 - Criar uma pequena abordagem de nativescript
 10 - Escrever todos os exercícios
 	Realizar CRUD - 0%
@@ -13,3 +13,8 @@ OK - 4 - Criação de Menu
 	Exercício Final - 50%
 11 - Desenvolver api
 12 - Formatar e organizar Aulas
+
+Pendências
+	Resolver Toast
+	Estudar pathMatch
+	explicar como pegar o id em /:id
