@@ -9,11 +9,12 @@ OK - 8 - Segregando nível de acesso por Roles
 9 - Criar uma pequena abordagem de nativescript
 10 - Escrever todos os exercícios
 	Realizar CRUD - 0%
-	PrimeNg - 0%
-	Exercício Final - 50%
-11 - Desenvolver api
-12 - Formatar e organizar Aulas
+	PrimeNg - 10%
+	Exercício Final - 60%
+OK - 11 - Desenvolver api
+OK - 12 - Formatar e organizar Aulas
 
 Pendências
+	Realizar um CRUD com HTTP
 	Estudar pathMatch
-	explicar como pegar o id em /:id
+	Para cada exercício criar um exemplo a ser utilizado na aula

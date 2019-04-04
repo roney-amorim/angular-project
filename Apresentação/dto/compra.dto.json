@@ -7,27 +7,21 @@
     "dataCadastro":"2019-04-01",
     "dataAlteracao":"2019-04-01",
     "usuarioCadastro":"ramorim",
-    "usuarioAlteracao":"ramorim"    
-},
-  "veiculo": {
-    "codigoVeiculo": 1,
-    "marca": { 
-    	"codigoMarca" 1,
-    	"nome":"Volksvagen"
-    },
-    "modelo": { 
-    	"codigoModelo": 1,
-    	"nome":"Golf GTI"
-    },
-    "placa":"FAW-4805",
-    "preco": 149000.00,
-    "percentualDesconto": 10,
-    "ano":"2019",
-    "motor":"2.0",
-    "dataCadastro":"2019-04-01",
-    "dataAlteracao":"2019-04-01",
-    "usuarioCadastro":"ramorim",
     "usuarioAlteracao":"ramorim"   
+  },
+  "veiculo": {
+    "dataCadastro": "2019-04-04 00:00:00",
+    "dataAlteracao": null,
+    "usuarioCadastro": "workshop",
+    "usuarioAlteracao": null,
+    "codigoVeiculo": 1,
+    "modelo": "GOLF GTI",
+    "marca": "VOLKSWAGEN",
+    "placa": "FES-4562",
+    "preco": 130000,
+    "percentualDesconto": 20,
+    "ano": "2019",
+    "motor": "2.0" 
   },   
   "precoVenda": 110000.00,
   "dataHoraVenda":"2019-04-09T16:32:05"   
