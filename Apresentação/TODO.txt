@@ -8,13 +8,16 @@ OK - 7 - Trabalhando com Guards, Auth, JWT e LocalStorage
 OK - 8 - Segregando nível de acesso por Roles
 9 - Criar uma pequena abordagem de nativescript
 10 - Escrever todos os exercícios
-	Realizar CRUD - 0%
+	Realizar CRUD - 100%
 	PrimeNg - 10%
-	Exercício Final - 60%
+	Exercício Final - 100%
 OK - 11 - Desenvolver api
 OK - 12 - Formatar e organizar Aulas
 
 Pendências
-	Realizar um CRUD com HTTP
 	Estudar pathMatch
+	Validar primeng-project
+	Validar em 2 componentes distinto - autocomplete exercício
 	Para cada exercício criar um exemplo a ser utilizado na aula
+	Deixar componente de login e de menu exposto no módulo 2 
+	Estudar mais as versões
