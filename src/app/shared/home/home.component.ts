@@ -16,7 +16,9 @@ export class HomeComponent implements OnInit {
   }
 
   inserirLista(cliente: any){
-    this.clientes.push({nome: cliente.nome, email: cliente.email});
+    if(this.clientes.filter(c => c.nome === cliente.nome) !== null){
+      this.clientes.push({nome: cliente.nome, email: cliente.email});
+    }
   }
 
   removerLista(cliente: any){
