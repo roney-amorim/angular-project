@@ -7,10 +7,10 @@ import { Observable, observable } from 'rxjs';
   styleUrls: ['./listar.component.css']
 })
 export class ListarComponent implements OnInit {
-
+ 
   constructor() { }
 
   ngOnInit() {
   }
-
+ 
 }
